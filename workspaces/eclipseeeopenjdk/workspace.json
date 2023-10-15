@@ -1,22 +1,15 @@
+ghcr.io/palaptin/pingus_kasm_eclipse_ee_with_openjdk_21:sha256-fb9da7256887d1bb0f2f72a5a4eb957121b2d064046c90087307813aacdd8a18.sig
 {
   "description": "Chromium is a free and open-source browser, primarily developed and maintained by Google.",
-  "docker_registry": "https://index.docker.io/v1/",
-  "name": "kasmweb/chromium:develop",
+  "docker_registry": "https://ghcr.io/",
+  "name": "palaptin/pingus_kasm_eclipse_ee_with_openjdk_21",
   "run_config": {
     "hostname": "kasm"
-  },
-  "exec_config": {
-    "go": {
-      "cmd": "bash -c '/dockerstartup/custom_startup.sh --go --url \"$KASM_URL\"'"
-    },
-    "assign": {
-      "cmd": "bash -c '/dockerstartup/custom_startup.sh --assign --url \"$KASM_URL\"'"
-    }
   },
   "categories": [
     "Browser"
   ],
-  "friendly_name": "Chromium",
+  "friendly_name": "Eclipse",
   "architecture": [
     "amd64",
     "arm64"
