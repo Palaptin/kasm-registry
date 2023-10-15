@@ -1,12 +1,12 @@
 {
   "description": "Chromium is a free and open-source browser, primarily developed and maintained by Google.",
   "docker_registry": "https://ghcr.io/",
-  "name": "palaptin/pingus_kasm_eclipse_ee_with_openjdk_21",
+  "name": "palaptin/pingus_kasm_eclipse_ee_with_openjdk_21:main",
   "run_config": {
     "hostname": "kasm"
   },
   "categories": [
-    "Browser"
+    "Development"
   ],
   "friendly_name": "Eclipse",
   "architecture": [
