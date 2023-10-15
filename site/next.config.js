@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'Pingus Kasm',
+    description: 'Another inofficial store for Kasm supported workspaces for my Private Project.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://Palaptin.github.io//kasm-registry/',
+    contactUrl: 'https://github.com/Palaptin/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
