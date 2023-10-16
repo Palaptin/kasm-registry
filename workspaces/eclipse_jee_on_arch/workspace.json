@@ -2,7 +2,7 @@
   "friendly_name": "Arch XFCE",
   "image_src": "arch-xfce.png",
   "description": "Arch with the XFCE desktop environment.",
-  "name": "ghcr.io/palaptin/pingus_kasm_docker_images",
+  "name": "ghcr.io/palaptin/pingus_kasm_docker_images:main",
   "cores": 2,
   "memory": 3768,
   "gpu_count": 0,
