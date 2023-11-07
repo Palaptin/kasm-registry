@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'Pingus Kasm',
     description: 'Another inofficial store for Kasm supported workspaces for my Private Project.',
     icon: '/img/logo.svg',
-    listUrl: 'https://palaptin.github.io//kasm-registry/',
+    listUrl: 'https://palaptin.github.io/kasm-registry/',
     contactUrl: 'https://github.com/palaptin/kasm-registry/issues',
   },
   reactStrictMode: true,
