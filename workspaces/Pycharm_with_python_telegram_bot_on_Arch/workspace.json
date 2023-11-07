@@ -1,8 +1,8 @@
 {
   "friendly_name": "Pycharm with python-telegram-bot",
-  "image_src": "pycharm_with_python_telegram_bot_on_Arch.png",
+  "image_src": "pycharm_with_python_telegram_bot_on_arch.png",
   "description": "Arch with pycharm, python-telegram-bot, sqlalchemy and black",
-  "name": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_Arch:main",
+  "name": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_arch:main",
   "cores": 2,
   "memory": 3768,
   "gpu_count": 0,
