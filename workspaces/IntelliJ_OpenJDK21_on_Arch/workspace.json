@@ -1,0 +1,36 @@
+{
+  "friendly_name": "IntelliJ with OpenJDK 21",
+  "image_src": "arch-xfce.png",
+  "description": "Arch with Intellij, Openjdk 21 and duckdb",
+  "name": "ghcr.io/palaptin/intellij_openjdk21_on_arch:main",
+  "cores": 2,
+  "memory": 3768,
+  "gpu_count": 0,
+  "cpu_allocation_method": "Inherit",
+  "docker_registry": "https://ghcr.io/",
+  "categories": [
+    "Development"
+  ],
+  "require_gpu": false,
+  "enabled": true,
+  "image_type": "Container",
+  "run_config": {
+    "security_opt": [
+      "seccomp=unconfined"
+    ],
+    "entrypoint": [
+      "/kasminit"
+    ],
+    "user": 1000
+  },
+  "exec_config": {},
+  "architecture": [
+    "amd64",
+    "arm64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2490
+}
