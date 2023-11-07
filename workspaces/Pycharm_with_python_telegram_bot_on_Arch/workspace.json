@@ -1,6 +1,6 @@
 {
   "friendly_name": "Pycharm with python-telegram-bot",
-  "image_src": "arch-xfce.png",
+  "image_src": "Pycharm_with_python_telegram_bot_on_Arch.png",
   "description": "Arch with pycharm, python-telegram-bot, sqlalchemy and black",
   "name": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_Arch:main",
   "cores": 2,
