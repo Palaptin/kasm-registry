@@ -3,9 +3,6 @@
   "image_src": "pycharm_with_python_telegram_bot_on_arch.png",
   "description": "Arch with pycharm, python-telegram-bot, sqlalchemy and black",
   "name": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_arch:main",
-  "cores": 2,
-  "memory": 3768,
-  "gpu_count": 0,
   "cpu_allocation_method": "Inherit",
   "docker_registry": "https://ghcr.io/",
   "categories": [
@@ -30,7 +27,10 @@
   ],
   "compatibility": [
     "1.13.x",
-    "1.14.x"
+    "1.14.x",
+    "1.15.x",
+    "1.16.x"
+    "1.17.x",
   ],
-  "uncompressed_size_mb": 2490
+  "uncompressed_size_mb": 0
 }
