@@ -31,16 +31,13 @@
   "compatibility": [
     {
       "version": "1.16.x",
-      "image": "kasmweb/chromium:develop",
-      "uncompressed_size_mb": 2170,
-      "available_tags": [
-        "develop"
-      ]
+      "image": "ghcr.io/palaptin/intellij_openjdk21_on_arch:main",
+      "uncompressed_size_mb": 0,
     }
     {
       "version": "1.17.x",
-      "image": "kasmweb/chromium:develop",
-      "uncompressed_size_mb": 2170,
+      "image": "ghcr.io/palaptin/intellij_openjdk21_on_arch:main",
+      "uncompressed_size_mb": 0,
     }
   ],
 }
