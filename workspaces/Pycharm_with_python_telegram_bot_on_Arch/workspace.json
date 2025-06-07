@@ -32,5 +32,16 @@
     "1.16.x"
     "1.17.x",
   ],
-  "uncompressed_size_mb": 0
+   "compatibility": [
+    {
+      "version": "1.16.x",
+      "image": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_arch:main",
+      "uncompressed_size_mb": 0,
+    },
+    {
+      "version": "1.17.x",
+      "image": "ghcr.io/palaptin/pycharm_with_python_telegram_bot_on_arch:main",
+      "uncompressed_size_mb": 0,
+    }
+  ]
 }
