@@ -32,12 +32,12 @@
     {
       "version": "1.16.x",
       "image": "ghcr.io/palaptin/intellij_openjdk21_on_arch:main",
-      "uncompressed_size_mb": 0,
-    }
+      "uncompressed_size_mb": 0
+    },
     {
       "version": "1.17.x",
       "image": "ghcr.io/palaptin/intellij_openjdk21_on_arch:main",
-      "uncompressed_size_mb": 0,
+      "uncompressed_size_mb": 0
     }
-  ],
+  ]
 }
